@@ -30,7 +30,4 @@ Given the current date and time is `2024-05-01T00:00:00.000Z`:
 `now-4d-4h` -> `2024-04-26T20:00:00.000Z` - now minus four days and four hours
 
 ### Stringify
-Converts calendar date to human friendly date like `now-1d`. See (Supported format)[#supported-format] and (Examples)[#examples].
-
-### Build
-`bun build index.ts --minify --outdir dist`
+Converts calendar date to human friendly date like `now-1d`. See [Supported format](#supported-format) and [Examples](#examples).
