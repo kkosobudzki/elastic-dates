@@ -10,6 +10,12 @@
   "engines": {
     "node": ">=14.17.0"
   },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "devDependencies": {
     "@types/bun": "latest"
   },
